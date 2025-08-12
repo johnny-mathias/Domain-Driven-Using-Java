@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Apostila08/Apostila08.iml" filepath="$PROJECT_DIR$/Apostila08/Apostila08.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Apostila09/Apostila09.iml" filepath="$PROJECT_DIR$/Apostila09/Apostila09.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Apostila10/Apostila10.iml" filepath="$PROJECT_DIR$/Apostila10/Apostila10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Apostila11/Apostila11.iml" filepath="$PROJECT_DIR$/Apostila11/Apostila11.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Domain-Driven-Using-Java.iml" filepath="$PROJECT_DIR$/.idea/Domain-Driven-Using-Java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Apostila09/JOption-Maiuscula/JOption-Maiuscula.iml" filepath="$PROJECT_DIR$/Apostila09/JOption-Maiuscula/JOption-Maiuscula.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Apostila09/Maiuscula/Maiuscula.iml" filepath="$PROJECT_DIR$/Apostila09/Maiuscula/Maiuscula.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exercicio2/exercicio2.iml" filepath="$PROJECT_DIR$/exercicio2/exercicio2.iml" />
+    </modules>
+  </component>
+</project>

@@ -30,7 +30,7 @@ public class pratica01 {
 
 
         //Menu
-        String menu = "OPÇÕES:\n1- Cadastrar\n2- Exibir\n0- Sair";
+        String menu = "\nOPÇÕES:\n1- Cadastrar\n2- Exibir\n0- Sair";
 
         //Pedir os dados de cada aluno para o usuario
         int opcao = 1; //Variavel de controle
@@ -76,7 +76,7 @@ public class pratica01 {
 
                 mediaIdade += idade;
 
-            }
+            } //1.a)
             if (opcao == 2) {
                 //Calcula o total de alunos
                 System.out.println("Total de alunos: " + alunos.size());
@@ -89,9 +89,12 @@ public class pratica01 {
                 double idades = mediaIdade / alunos.size();
                 System.out.println("Idades média: " + idades);
 
-
+                System.out.println(menu);
+                opcao = scanner.nextInt();
+                scanner.nextLine();
             }
         }
+
 
 
         while (opcao == 0) {
@@ -101,7 +104,7 @@ public class pratica01 {
 
 
 
-
+        //1.b)
         for (int i = 0; i < alunos.size(); i++) {
             System.out.println("Alunos: " + alunos.get(i));
         }
